@@ -35,8 +35,8 @@ THIS PROJECT IS MADE TO SOMEONE WHO WANT TO COLLECT ALL MAIRIES'MAILS AT VAL D'O
 
 ## REQUIRES and MANUAL:
 You have to install these gems: 
-*Nokogiri
-*httparty
+-Nokogiri
+-httparty
 RUN your terminal at the folder and tape this code: "ruby app.rb"
 You can find also your information at data folder
 
